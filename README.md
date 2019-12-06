@@ -30,3 +30,5 @@
 #### - Addressing the Under-Translation Problem from the Entropy Perspective [Paper](http://www.nlpr.ia.ac.cn/cip/ZongPublications/2019/2019-ZhaoYang-AAAI.pdf) [Review](reviews/und_trans.md)
 
 #### - The Curious Case of Neural Text Degeneration [Paper](https://arxiv.org/abs/1904.09751) [Review](reviews/neu_degen.md) [OpenReview](https://openreview.net/forum?id=rygGQyrFvH)
+
+#### - Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks [Paper](https://arxiv.org/abs/1703.03400) [Review](reviews/maml.md)

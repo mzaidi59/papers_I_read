@@ -31,3 +31,7 @@
   - The Curious Case of Neural Text Degeneration [Paper](https://arxiv.org/abs/1904.09751) [Review](reviews/neu_degen.md) [OpenReview](https://openreview.net/forum?id=rygGQyrFvH)
 
   - ```Meta Learning``` Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks [Paper](https://arxiv.org/abs/1703.03400) [Review](reviews/maml.md)
+
+## Meta Learning
+
+- Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML [Paper](https://arxiv.org/pdf/1909.09157v1.pdf)

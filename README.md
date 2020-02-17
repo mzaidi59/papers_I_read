@@ -16,12 +16,6 @@
 
   - [Facebook FAIR's WMT19 News Translation Task Submission](https://arxiv.org/abs/1907.06616)
 
-  - [Online and Linear-Time Attention by Enforcing Monotonic Alignments](https://arxiv.org/abs/1704.00784)
-
-  - [STACL: Simultaneous Translation with Implicit Anticipation and Controllable Latency using Prefix-to-Prefix Framework](https://arxiv.org/abs/1810.08398)
-
-  - Monotonic Infinite Loopback Attention [Paper](https://arxiv.org/abs/1906.05218) [Review](reviews/milk.md)
-
   - Attention Forcing for Sequence to Sequence Model Training [Paper](https://arxiv.org/abs/1909.12289) [Review](reviews/att_forcing.md) [OpenReview](https://openreview.net/forum?id=rJe5_CNtPB) 
 
   - Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context [Paper](https://arxiv.org/abs/1901.02860) [Review](reviews/trans_xla.md)
@@ -31,6 +25,14 @@
   - The Curious Case of Neural Text Degeneration [Paper](https://arxiv.org/abs/1904.09751) [Review](reviews/neu_degen.md) [OpenReview](https://openreview.net/forum?id=rygGQyrFvH)
 
   - ```Meta Learning``` Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks [Paper](https://arxiv.org/abs/1703.03400) [Review](reviews/maml.md)
+
+## Online Translation
+
+- [Online and Linear-Time Attention by Enforcing Monotonic Alignments](https://arxiv.org/abs/1704.00784)
+
+- [STACL: Simultaneous Translation with Implicit Anticipation and Controllable Latency using Prefix-to-Prefix Framework](https://arxiv.org/abs/1810.08398)
+
+- Monotonic Infinite Loopback Attention [Paper](https://arxiv.org/abs/1906.05218) [Review](reviews/milk.md)
 
 ## Meta Learning
 
